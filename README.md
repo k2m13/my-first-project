@@ -19,6 +19,7 @@ The Coding Club website is a landing page for parents and children looking for a
 - Thanks to my mentor Rudy Matheson for his patience and support as I built out this project.
 
 ## Markdown Practice
-***
+
 |**Building**|**a table**|**with markdown**|
 |:---:|:---:|:---|
+|*italic text*|**bold text**|`inline code`|
